@@ -1,0 +1,28 @@
+.nav_head {
+  display: flex;
+  /* justify-content: center; */
+}
+.nav_ul {
+  min-width: 900px;
+  max-width: 100%;
+  padding: 0% 8%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_item_ul_1{
+  display: flex;
+}
+.nav_ul_2_item {
+  list-style: none;
+  text-wrap: nowrap;
+}
+.nav_item_ul_2 {
+  /* min-width: 800px; */
+  display: flex;
+  gap: 10%;
+}
+.nav_logo_main{
+  width: 40%;
+  height: 40%;
+}
